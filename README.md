@@ -42,14 +42,17 @@ Follow these steps to set up the Nmap Scanner Tool on your Linux device:
    cd nmap-scanner
 2. **Install Required Packages**: 
    You can install the required Python packages using pip. If you don't have pip installed, install it first.
+    ```bash
     sudo apt install python3-pip   
     pip3 install python-nmap pyfiglet
 3. **Install Nmap**:
  If Nmap is not installed, you can install it using:
+    ```bash
     sudo apt install nmap
 
 ## Usage
 Run the Tool: You can run the tool using Python:
+    ```bash
     python3 nmap_scanner.py
 
 ## EXAMPLE OUTPUT:
