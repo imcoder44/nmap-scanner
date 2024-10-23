@@ -51,8 +51,8 @@ Follow these steps to set up the Nmap Scanner Tool on your Linux device:
     sudo apt install nmap
 
 ## Usage
-Run the Tool: You can run the tool using Python:
-    ```bash
+Run the Tool: You can run the tool using Python.
+    
     sudo python3 nmapScanner.py
 
 ## EXAMPLE OUTPUT:
