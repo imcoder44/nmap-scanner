@@ -82,3 +82,10 @@ Scan Results for 192.168.1.1
               'version': '7.6p1 Ubuntu 4'}, 
           80: {'state': 'open', 'name': 'http', 'product': 'nginx',
                'version': '1.14.0'}}}
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for more details.
+
+## Contributing
+Contributions are welcome! If you have suggestions or improvements, feel free to open an issue or submit a pull request.
+
