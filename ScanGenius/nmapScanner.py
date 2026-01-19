@@ -9,7 +9,7 @@ import ipaddress
 scanner = nmap.PortScanner()
 
 # Generate the ASCII art
-welcome_message = pyfiglet.figlet_format("Welcome to Nmap Scanner")
+welcome_message = pyfiglet.figlet_format("CyArt Scanner")
 print(welcome_message)
 
 # Create a decorative line
